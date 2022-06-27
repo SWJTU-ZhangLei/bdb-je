@@ -1,0 +1,5 @@
+Based on Oracle: Berkeley DB, Java Edition 18.3.12
+
+Download Source: https://search.maven.org/artifact/com.sleepycat/je/18.3.12/jar
+
+BUILD JDK VERSION: Oracle JDK 1.8
