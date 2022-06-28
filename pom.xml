@@ -15,9 +15,9 @@ limitations under the License.
 -->
 
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
-    <name>selectdb bdb je</name>
-    <description>selectdb managed bdb je</description>
-    <url>https://github.com/selectdb/je</url>
+    <name>bdb-je</name>
+    <description>mirror of bdb-je from maven</description>
+    <url>https://github.com/SWJTU-ZhangLei/bdb-je</url>
 
     <licenses>
         <license>
@@ -26,13 +26,13 @@ limitations under the License.
         </license>
     </licenses>
     <scm>
-        <url>https://github.com/selectdb/je</url>
-        <connection>https://github.com/selectdb/je.git</connection>
+        <url>https://github.com/SWJTU-ZhangLei/bdb-je</url>
+        <connection>https://github.com/SWJTU-ZhangLei/bdb-je</connection>
     </scm>
     <developers>
         <developer>
-            <name>selectdb</name>
-            <id>selectdb</id>
+            <name>zhanglei</name>
+            <id>zhanglei</id>
             <email>zhanglei@selectdb.com</email>
             <roles>
                 <role>Developer</role>
@@ -41,8 +41,8 @@ limitations under the License.
         </developer>
     </developers>
     <modelVersion>4.0.0</modelVersion>
-    <groupId>io.github.selectdb</groupId>
-    <artifactId>je</artifactId>
+    <groupId>io.github.swjtu-zhanglei</groupId>
+    <artifactId>bdb-je</artifactId>
     <version>18.3.12-SNAPSHOT</version>
     <build>
         <plugins>
